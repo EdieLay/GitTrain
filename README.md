@@ -2,5 +2,5 @@
 ----
 Мой любимый язык - **C++**  
 ```C++
-[[nodiscard]] constexpr char* const ShortestFunctionNameInCpp(cons* char randomString, uint8_t randomFlag){}
+[[nodiscard]] constexpr char* const ShortestFunctionNameInCpp(const* char randomString, uint8_t randomFlag){}
 ```
